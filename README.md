@@ -1,7 +1,7 @@
 # predict-atmpol
 Fortran code, which calculates the resulting gradients for molecular dynamics from the chaperone polarizabilities.
 
-"Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," Kim, B.; Shao, Y.; Pu, J. J. Chem. Theory Comput. 2021, 17, 7682-7695 ([doi:10.1021/acs.jctc.1c00567](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00245); [PMID:34723536](https://pubmed.ncbi.nlm.nih.gov/34283604/).  
+"Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," **Kim, B.**; Shao, Y.; Pu, J. J. Chem. Theory Comput. 2021, 17, 7682-7695 ([doi:10.1021/acs.jctc.1c00567](https://pubs.acs.org/doi/10.1021/acs.jctc.1c00245); [PMID:34723536](https://pubmed.ncbi.nlm.nih.gov/34283604/).  
 
 ![My Image](dpqmmm.gif)
 
