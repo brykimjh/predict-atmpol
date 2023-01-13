@@ -1,7 +1,10 @@
 # predict-atmpol
 Fortran code, which calculates the resulting gradients for molecular dynamics from the chaperone polarizabilities.
 
-$ bash 0run.sh to compiles test.f90 to user.exe and run user.exe (creates output.dat)
+To compiles test.f90 to user.exe and run user.exe (creates output.dat)
+```
+$ bash 0run.sh
+```
 
 | File/Directory| Description   |
 | ------------- | ------------- |
