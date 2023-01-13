@@ -3,6 +3,8 @@ Fortran code, which calculates the resulting gradients for molecular dynamics fr
 
 "Doubly Polarized QM/MM with Machine Learning Chaperone Polarizability," Kim, B.; Shao, Y.; Pu, J. J. Chem. Theory Comput. 2021, 17, 7682-7695 (doi:10.1021/acs.jctc.1c00567; PMID:34723536).  
 
+![My Image](dpqmmm.gif)
+
 Author: Bryant Kim  
 Email: brykimjh@gmail.com  
 Website: https://wikipugr.sitehost.iu.edu/wiki/index.php?title=The_Pu_Research_Group  
