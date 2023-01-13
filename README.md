@@ -7,6 +7,7 @@ Fortran code, which calculates the resulting gradients for molecular dynamics fr
 
 Author: Bryant Kim  
 Email: brykimjh@gmail.com  
+LinkedIn: https://www.linkedin.com/in/bryant-kim-1aba7522b/  
 Website: https://wikipugr.sitehost.iu.edu/wiki/index.php?title=The_Pu_Research_Group  
 
 Compile test.f90 with 0run.sh then run user.exe to create output.dat (updated dynamics):
